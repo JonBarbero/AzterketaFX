@@ -5,5 +5,7 @@ open module oinarria {
   requires javafx.fxml;
   requires javafx.controls;
   requires javafx.swing;
+  requires org.apache.commons.codec;
   exports ehu.isad;
+
 }

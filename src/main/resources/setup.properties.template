@@ -1,1 +1,5 @@
-dbpath=
+dbname=
+user=
+password=
+useSSL=FALSE
+serverTimezone=Europe/Madrid
